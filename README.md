@@ -1,5 +1,7 @@
 # Link Collections
 
+This is not an awesome pages. I just like to collect some links for my own personal bookmarks. 
+
 - [Lindy Hacker News](https://hn.lindylearn.io/) - Aggregates old articles that get reposted on Hacker News.
 - [Servers for Hacker](https://serversforhackers.com/) - Server Admin for Programmers.
 - [Patterns.dev](https://www.patterns.dev/) - Free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
